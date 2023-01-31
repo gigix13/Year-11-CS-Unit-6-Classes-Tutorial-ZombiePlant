@@ -1,5 +1,8 @@
 # Year-11-CS-Unit-6-Classes-Tutorial-ZombiePlant
 
+Name: Gigi
+Partner: Ison
+
 Your job is to create one class called ZombiePlant. 
 You should pass all of the tests in the ZombiePlantTester class (provided).
 
